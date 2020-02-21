@@ -1,0 +1,6 @@
+O sistema será monitorado através do servidor que esta alocado na amazon, monitoraremos a performance também através de sistema web.
+Foi identicado um BUG na forma de pagamento, sendo assim os testes precisarão ser refeitos.
+
+pagamento via cartão de crédito ok
+pagamento em dinheiro ok
+pagar no carro debito Nok

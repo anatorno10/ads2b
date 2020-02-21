@@ -1,0 +1,8 @@
+Desenvolveremos um software através do Python.
+Será desenvolvido uma tela de cadastro de clientes, que irá contemplar um formulário com os cinco campos que são os seguintes:nome completo, celular,  email,  endereço, CPF,após a validação de todos os campos, o usuário acionará um botãopara efetivar o cadastro.
+Posterior ao cadastro, o usuário irá para uma página onde visualiza os carros disponíveis e o mapa de sua região atual.
+Ao lado esquerdo da tela, irá ter um menu com opções: pagamento dentro desta tela será necessário cadastrar um método de pagamento.
+Serão cadastrados três formas de pagamento: cartão de crédito, dinheiro , pagar no carro débito.
+Será desenvolvido uma tela de cadastro de motoristas que irá contemplar um formulário com os cinco campos que são os seguintes:nome completo,celular, email, endereço,CPF e CNH (no campo CNH haverá uma interface com o sistema do Detran, para validar se o motorista encontra-se com a situação regular).
+Será desenvolvido uma tela para  cadastro do veículo, os seguintes dados serão solicitados: Modelo, ano de fabricação, cor e placa.
+O raio de atuação do app será de 10 km, a partir do centro de São Paulo.O valor das corridas não serão dinâmicos, o custo será fixo $ 10 dólares, limitados a 5 km definido a partir do local de partida até o local de destino.

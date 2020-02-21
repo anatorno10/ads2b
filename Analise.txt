@@ -1,0 +1,3 @@
+O sistema deve conter cadastro de usuário, cadastro de veículos voadores,cadastro de motoristas, 
+método de pagamento, geolocalização definida através do raio de 10 km, como o valor das corridas não serão dinâmicos, 
+será necessário cadastrar o custo fixo de $ 10 dólares, com definição de ponto de partida a partir do centro de São Paulo

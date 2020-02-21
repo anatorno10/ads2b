@@ -1,0 +1,10 @@
+Realizamos os seguintes testes, para identificarmos possiveis Gaps no app.
+- cadastro de metodo de pagamento
+Realizado o cadastro de todos os metodos de pagamento: via cartão de crédito, pagamento em dinheiro, pagar no carro débito
+chegamos a seguinte conclusão:
+ 
+pagamento via cartão de crédito ok
+pagamento em dinheiro ok
+pagar no carro debito Nok
+
+

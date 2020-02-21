@@ -1,0 +1,3 @@
+Vamos utilizar a linguagem Python, pois é uma linguagem mais simples e que tem muita sinergia com smartphones,
+se tratando do mundo atual este tipo de linguagem principalmente utilizado no sistema Android é muito benéfico
+ para a implementação do sistema, por ser compatível com inteligencia artificial, machine learning e ferramentas da atualidade.
